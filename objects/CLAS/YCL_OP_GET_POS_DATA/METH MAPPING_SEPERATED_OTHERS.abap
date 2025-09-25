@@ -9,7 +9,7 @@
 
     DATA(lt_lines) = it_lines.
     LOOP AT lt_lines INTO DATA(ls_string_tab).
-      SPLIT ls_string_tab AT ';' INTO TABLE DATA(lt_split_tab).
+      SPLIT ls_string_tab AT ms_bank_info-separator INTO TABLE DATA(lt_split_tab).
       APPEND INITIAL LINE TO lt_posdata_detail ASSIGNING FIELD-SYMBOL(<ls_posdata_detail>).
       LOOP AT lt_split_tab INTO DATA(ls_split_tab).
         CONDENSE ls_split_tab.
