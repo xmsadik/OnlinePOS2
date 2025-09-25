@@ -133,9 +133,7 @@
                 <fs_messages>-message = lv_message.
                 <fs_messages>-message_v1 = lv_message.
 
-                DATA(lv_response_body) = /ui2/cl_json=>serialize( EXPORTING data = ms_response ).
-                response->set_text( lv_response_body ).
-                response->set_header_field( i_name = mc_header_content i_value = mc_content_type ).
+
               ELSE.
 *              ms_response-messages = VALUE #( base ms_response-messages FOR wa_commit IN ls_commit_reported-journalentry ( message = wa_commit-%msg->if_message~get_text( ) messagetype = mc_error ) ).
               ENDIF.
@@ -152,4 +150,9 @@
         <fs_messages>-message_v1 = lv_message.
       ENDIF.
     ENDLOOP.
+
+    DATA(lv_response_body) = /ui2/cl_json=>serialize( EXPORTING data = ms_response ).
+    response->set_text( lv_response_body ).
+    response->set_header_field( i_name = mc_header_content i_value = mc_content_type ).
+
   ENDMETHOD.
