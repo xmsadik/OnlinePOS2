@@ -7,7 +7,7 @@
       FROM i_costcentertexttp_2 WITH PRIVILEGED ACCESS
       INTO TABLE @DATA(lt_costcenter).
 
-    condense  ms_bank_info-separator.
+    condense  ms_bank_info-separator NO-GAPS.
     DATA(lt_lines) = it_lines.
     LOOP AT lt_lines INTO DATA(ls_string_tab).
       SPLIT ls_string_tab AT ms_bank_info-separator INTO TABLE DATA(lt_split_tab).
