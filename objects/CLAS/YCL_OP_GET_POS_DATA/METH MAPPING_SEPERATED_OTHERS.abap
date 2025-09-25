@@ -7,10 +7,17 @@
       FROM i_costcentertexttp_2 WITH PRIVILEGED ACCESS
       INTO TABLE @DATA(lt_costcenter).
 
+      IF ms_bank_info-separator CS ','.
+      data(lv_sep) = ','.
+      endif.
+       IF ms_bank_info-separator CS ';'.
+      lv_sep = ';'.
+      endif.
+
     condense  ms_bank_info-separator NO-GAPS.
     DATA(lt_lines) = it_lines.
     LOOP AT lt_lines INTO DATA(ls_string_tab).
-      SPLIT ls_string_tab AT ms_bank_info-separator INTO TABLE DATA(lt_split_tab).
+      SPLIT ls_string_tab AT lv_sep INTO TABLE DATA(lt_split_tab).
       APPEND INITIAL LINE TO lt_posdata_detail ASSIGNING FIELD-SYMBOL(<ls_posdata_detail>).
       LOOP AT lt_split_tab INTO DATA(ls_split_tab).
         CONDENSE ls_split_tab.
