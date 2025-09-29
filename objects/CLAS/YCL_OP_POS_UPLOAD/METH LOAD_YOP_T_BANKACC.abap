@@ -144,7 +144,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000005004'.
+    ls_tab-workplace_no = '094100000005004'.
     ls_tab-fincs = '1011800001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082112201'.
@@ -154,7 +154,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000005012'.
+    ls_tab-workplace_no = '094100000005012'.
     ls_tab-fincs = '1011600001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082112201'.
@@ -164,7 +164,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000005947'.
+    ls_tab-workplace_no = '094100000005947'.
     ls_tab-fincs = '1011500001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082112201'.
@@ -174,7 +174,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000004981'.
+    ls_tab-workplace_no = '094100000004981'.
     ls_tab-fincs = '1012200001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082112201'.
@@ -184,7 +184,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000014019'.
+    ls_tab-workplace_no = '094100000014019'.
     ls_tab-fincs = '1011700001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082112201'.
@@ -194,7 +194,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000010293'.
+    ls_tab-workplace_no = '094100000010293'.
     ls_tab-fincs = '1011400001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082112201'.
@@ -204,7 +204,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000013219'.
+    ls_tab-workplace_no = '094100000013219'.
     ls_tab-fincs = '1011900001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082112201'.
@@ -214,7 +214,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000013995'.
+    ls_tab-workplace_no = '094100000013995'.
     ls_tab-fincs = '1011000001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082112201'.
@@ -224,7 +224,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '709271'.
+    ls_tab-workplace_no = '0709271'.
     ls_tab-fincs = '1011800001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -234,7 +234,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '717533'.
+    ls_tab-workplace_no = '0717533'.
     ls_tab-fincs = '1011600001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -244,7 +244,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '736095'.
+    ls_tab-workplace_no = '0736095'.
     ls_tab-fincs = '1011500001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -254,7 +254,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '701666'.
+    ls_tab-workplace_no = '0701666'.
     ls_tab-fincs = '1012200001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -264,7 +264,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '793766'.
+    ls_tab-workplace_no = '0793766'.
     ls_tab-fincs = '1011700001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -274,7 +274,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '754756'.
+    ls_tab-workplace_no = '0754756'.
     ls_tab-fincs = '1011400001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -284,7 +284,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '789686'.
+    ls_tab-workplace_no = '0789686'.
     ls_tab-fincs = '1012300001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -294,7 +294,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '769524'.
+    ls_tab-workplace_no = '0769524'.
     ls_tab-fincs = '1011300001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -304,7 +304,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '789687'.
+    ls_tab-workplace_no = '0789687'.
     ls_tab-fincs = '1011200001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -314,7 +314,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '763853'.
+    ls_tab-workplace_no = '0763853'.
     ls_tab-fincs = '1011900001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -324,7 +324,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '792905'.
+    ls_tab-workplace_no = '0792905'.
     ls_tab-fincs = '1011000001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -334,7 +334,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 7.
-    ls_tab-workplace_no = '795207'.
+    ls_tab-workplace_no = '0795207'.
     ls_tab-fincs = '1011100001'.
     ls_tab-finhs = '7801200000'.
     ls_tab-poshs = '1082111201'.
@@ -634,7 +634,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634077'.
+    ls_tab-workplace_no = '000000000634077'.
     ls_tab-fincs = '1011800001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -644,7 +644,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634074'.
+    ls_tab-workplace_no = '000000000634074'.
     ls_tab-fincs = '1011600001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -654,7 +654,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634075'.
+    ls_tab-workplace_no = '000000000634075'.
     ls_tab-fincs = '1011500001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -664,7 +664,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634080'.
+    ls_tab-workplace_no = '000000000634080'.
     ls_tab-fincs = '1012200001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -674,7 +674,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634081'.
+    ls_tab-workplace_no = '000000000634081'.
     ls_tab-fincs = '1011700001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -684,7 +684,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634083'.
+    ls_tab-workplace_no = '000000000634083'.
     ls_tab-fincs = '1011400001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -694,7 +694,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634089'.
+    ls_tab-workplace_no = '000000000634089'.
     ls_tab-fincs = '1012300001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -704,7 +704,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634082'.
+    ls_tab-workplace_no = '000000000634082'.
     ls_tab-fincs = '1011300001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -714,7 +714,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634071'.
+    ls_tab-workplace_no = '000000000634071'.
     ls_tab-fincs = '1011200001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -724,7 +724,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '1115943'.
+    ls_tab-workplace_no = '000000001115943'.
     ls_tab-fincs = '1011900001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -734,7 +734,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634088'.
+    ls_tab-workplace_no = '000000000634088'.
     ls_tab-fincs = '1011000001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -744,7 +744,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634085'.
+    ls_tab-workplace_no = '000000000634085'.
     ls_tab-fincs = '1011100001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -754,7 +754,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '2263606'.
+    ls_tab-workplace_no = '000000002263606'.
     ls_tab-fincs = '1012000001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -764,7 +764,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '622314'.
+    ls_tab-workplace_no = '000000000622314'.
     ls_tab-fincs = '1010300001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -774,7 +774,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '3479950'.
+    ls_tab-workplace_no = '000000003479950'.
     ls_tab-fincs = '1010300001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -784,7 +784,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146162'.
+    ls_tab-workplace_no = '000000003146162'.
     ls_tab-fincs = '1011200001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -794,7 +794,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146169'.
+    ls_tab-workplace_no = '000000003146169'.
     ls_tab-fincs = '1011100001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -804,7 +804,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146171'.
+    ls_tab-workplace_no = '000000003146171'.
     ls_tab-fincs = '1011600001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -814,7 +814,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146173'.
+    ls_tab-workplace_no = '000000003146173'.
     ls_tab-fincs = '1011700001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -824,7 +824,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146178'.
+    ls_tab-workplace_no = '000000003146178'.
     ls_tab-fincs = '1011500001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -834,7 +834,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146501'.
+    ls_tab-workplace_no = '000000003146501'.
     ls_tab-fincs = '1011000001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -844,7 +844,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146517'.
+    ls_tab-workplace_no = '000000003146517'.
     ls_tab-fincs = '1011400001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -854,7 +854,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3148739'.
+    ls_tab-workplace_no = '000000003148739'.
     ls_tab-fincs = '1011800001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -864,7 +864,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3147806'.
+    ls_tab-workplace_no = '000000003147806'.
     ls_tab-fincs = '1012000001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -874,7 +874,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3148674'.
+    ls_tab-workplace_no = '000000003148674'.
     ls_tab-fincs = '1012300001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -884,7 +884,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146519'.
+    ls_tab-workplace_no = '000000003146519'.
     ls_tab-fincs = '1012200001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -894,7 +894,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154848'.
+    ls_tab-workplace_no = '000000003154848'.
     ls_tab-fincs = '1011800002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -904,7 +904,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3148254'.
+    ls_tab-workplace_no = '000000003148254'.
     ls_tab-fincs = '1011300001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -914,7 +914,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154855'.
+    ls_tab-workplace_no = '000000003154855'.
     ls_tab-fincs = '1011100002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -924,7 +924,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154854'.
+    ls_tab-workplace_no = '000000003154854'.
     ls_tab-fincs = '1011600002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -934,7 +934,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154877'.
+    ls_tab-workplace_no = '000000003154877'.
     ls_tab-fincs = '1011000002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -944,7 +944,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154850'.
+    ls_tab-workplace_no = '000000003154850'.
     ls_tab-fincs = '1011400002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -954,7 +954,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154851'.
+    ls_tab-workplace_no = '000000003154851'.
     ls_tab-fincs = '1012200002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -964,7 +964,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154852'.
+    ls_tab-workplace_no = '000000003154852'.
     ls_tab-fincs = '1011300002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -974,7 +974,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154849'.
+    ls_tab-workplace_no = '000000003154849'.
     ls_tab-fincs = '1011500002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -984,7 +984,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154846'.
+    ls_tab-workplace_no = '000000003154846'.
     ls_tab-fincs = '1011200002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -994,7 +994,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154853'.
+    ls_tab-workplace_no = '000000003154853'.
     ls_tab-fincs = '1012000002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -1004,7 +1004,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154847'.
+    ls_tab-workplace_no = '000000003154847'.
     ls_tab-fincs = '1012300002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -1014,7 +1014,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154856'.
+    ls_tab-workplace_no = '000000003154856'.
     ls_tab-fincs = '1012300002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -1024,7 +1024,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154857'.
+    ls_tab-workplace_no = '000000003154857'.
     ls_tab-fincs = '1011700002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2544,7 +2544,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634077'.
+    ls_tab-workplace_no = '000000000634077'.
     ls_tab-fincs = '1011800001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2554,7 +2554,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634074'.
+    ls_tab-workplace_no = '000000000634074'.
     ls_tab-fincs = '1011600001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2564,7 +2564,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634075'.
+    ls_tab-workplace_no = '000000000634075'.
     ls_tab-fincs = '1011500001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2574,7 +2574,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634080'.
+    ls_tab-workplace_no = '000000000634080'.
     ls_tab-fincs = '1012200001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2584,7 +2584,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634081'.
+    ls_tab-workplace_no = '000000000634081'.
     ls_tab-fincs = '1011700001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2594,7 +2594,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634083'.
+    ls_tab-workplace_no = '000000000634083'.
     ls_tab-fincs = '1011400001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2604,7 +2604,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634089'.
+    ls_tab-workplace_no = '000000000634089'.
     ls_tab-fincs = '1012300001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2614,7 +2614,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634082'.
+    ls_tab-workplace_no = '000000000634082'.
     ls_tab-fincs = '1011300001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2624,7 +2624,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634071'.
+    ls_tab-workplace_no = '000000000634071'.
     ls_tab-fincs = '1011200001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2634,7 +2634,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '1115943'.
+    ls_tab-workplace_no = '000000001115943'.
     ls_tab-fincs = '1011900001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2644,7 +2644,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634088'.
+    ls_tab-workplace_no = '000000000634088'.
     ls_tab-fincs = '1011000001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2654,7 +2654,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '634085'.
+    ls_tab-workplace_no = '000000000634085'.
     ls_tab-fincs = '1011100001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2664,7 +2664,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '2263606'.
+    ls_tab-workplace_no = '000000002263606'.
     ls_tab-fincs = '1012000001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2674,7 +2674,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '622314'.
+    ls_tab-workplace_no = '000000000622314'.
     ls_tab-fincs = '1010300001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2684,7 +2684,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 4.
-    ls_tab-workplace_no = '3479950'.
+    ls_tab-workplace_no = '000000003479950'.
     ls_tab-fincs = '1010300001'.
     ls_tab-finhs = '7801600000'.
     ls_tab-poshs = '1082111601'.
@@ -2694,7 +2694,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146162'.
+    ls_tab-workplace_no = '000000003146162'.
     ls_tab-fincs = '1011200001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2704,7 +2704,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146169'.
+    ls_tab-workplace_no = '000000003146169'.
     ls_tab-fincs = '1011100001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2714,7 +2714,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146171'.
+    ls_tab-workplace_no = '000000003146171'.
     ls_tab-fincs = '1011600001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2724,7 +2724,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146173'.
+    ls_tab-workplace_no = '000000003146173'.
     ls_tab-fincs = '1011700001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2734,7 +2734,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146178'.
+    ls_tab-workplace_no = '000000003146178'.
     ls_tab-fincs = '1011500001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2744,7 +2744,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146501'.
+    ls_tab-workplace_no = '000000003146501'.
     ls_tab-fincs = '1011000001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2754,7 +2754,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146517'.
+    ls_tab-workplace_no = '000000003146517'.
     ls_tab-fincs = '1011400001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2764,7 +2764,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3148739'.
+    ls_tab-workplace_no = '000000003148739'.
     ls_tab-fincs = '1011800001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2774,7 +2774,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3147806'.
+    ls_tab-workplace_no = '000000003147806'.
     ls_tab-fincs = '1012000001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2784,7 +2784,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3148674'.
+    ls_tab-workplace_no = '000000003148674'.
     ls_tab-fincs = '1012300001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2794,7 +2794,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3146519'.
+    ls_tab-workplace_no = '000000003146519'.
     ls_tab-fincs = '1012200001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2804,7 +2804,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154848'.
+    ls_tab-workplace_no = '000000003154848'.
     ls_tab-fincs = '1011800002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2814,7 +2814,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3148254'.
+    ls_tab-workplace_no = '000000003148254'.
     ls_tab-fincs = '1011300001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2824,7 +2824,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154855'.
+    ls_tab-workplace_no = '000000003154855'.
     ls_tab-fincs = '1011100002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2834,7 +2834,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154854'.
+    ls_tab-workplace_no = '000000003154854'.
     ls_tab-fincs = '1011600002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2844,7 +2844,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154877'.
+    ls_tab-workplace_no = '000000003154877'.
     ls_tab-fincs = '1011000002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2854,7 +2854,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154850'.
+    ls_tab-workplace_no = '000000003154850'.
     ls_tab-fincs = '1011400002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2864,7 +2864,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154851'.
+    ls_tab-workplace_no = '000000003154851'.
     ls_tab-fincs = '1012200002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2874,7 +2874,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154852'.
+    ls_tab-workplace_no = '000000003154852'.
     ls_tab-fincs = '1011300002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2884,7 +2884,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154849'.
+    ls_tab-workplace_no = '000000003154849'.
     ls_tab-fincs = '1011500002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2894,7 +2894,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154846'.
+    ls_tab-workplace_no = '000000003154846'.
     ls_tab-fincs = '1011200002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2904,7 +2904,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154853'.
+    ls_tab-workplace_no = '000000003154853'.
     ls_tab-fincs = '1012000002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2914,7 +2914,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154847'.
+    ls_tab-workplace_no = '000000003154847'.
     ls_tab-fincs = '1012300002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2924,7 +2924,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154856'.
+    ls_tab-workplace_no = '000000003154856'.
     ls_tab-fincs = '1012300002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -2934,7 +2934,7 @@
 
     ls_tab-bukrs = '1000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3154857'.
+    ls_tab-workplace_no = '000000003154857'.
     ls_tab-fincs = '1011700002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082111301'.
@@ -3734,7 +3734,7 @@
 
     ls_tab-bukrs = '2000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3595291'.
+    ls_tab-workplace_no = '000000003595291'.
     ls_tab-fincs = '2021000001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082211301'.
@@ -3744,7 +3744,7 @@
 
     ls_tab-bukrs = '2000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3593329'.
+    ls_tab-workplace_no = '000000003593329'.
     ls_tab-fincs = '2021000002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082211301'.
@@ -3754,7 +3754,7 @@
 
     ls_tab-bukrs = '2000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '3634034'.
+    ls_tab-workplace_no = '000000003634034'.
     ls_tab-fincs = '2020310001'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082211301'.
@@ -3784,7 +3784,7 @@
 
     ls_tab-bukrs = '3000'.
     ls_tab-bank_no = 6.
-    ls_tab-workplace_no = '2318451'.
+    ls_tab-workplace_no = '000000002318451'.
     ls_tab-fincs = '3031000002'.
     ls_tab-finhs = '7801300000'.
     ls_tab-poshs = '1082311301'.
@@ -3794,7 +3794,7 @@
 
     ls_tab-bukrs = '3000'.
     ls_tab-bank_no = 2.
-    ls_tab-workplace_no = '94100000030023'.
+    ls_tab-workplace_no = '094100000030023'.
     ls_tab-fincs = '3031000001'.
     ls_tab-finhs = '7802200000'.
     ls_tab-poshs = '1082312201'.

@@ -83,7 +83,7 @@
     ls_tab-bank_no = 1.
     ls_tab-bank_field_no = 8.
     ls_tab-bank_field = 'Ana Kart Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -248,7 +248,7 @@
     ls_tab-bank_no = 1.
     ls_tab-bank_field_no = 23.
     ls_tab-bank_field = 'Chip Para Valor Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -259,7 +259,7 @@
     ls_tab-bank_no = 1.
     ls_tab-bank_field_no = 24.
     ls_tab-bank_field = 'Aud Key'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -281,7 +281,7 @@
     ls_tab-bank_no = 1.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'Uye Isyeri Mbb No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -292,7 +292,7 @@
     ls_tab-bank_no = 1.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'Banka Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -347,7 +347,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 4.
     ls_tab-bank_field = 'Açıklama'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -358,7 +358,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 5.
     ls_tab-bank_field = 'Komisyon Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -380,7 +380,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 7.
     ls_tab-bank_field = 'Bloke Süresi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -391,7 +391,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 8.
     ls_tab-bank_field = 'Bloke Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -402,7 +402,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 9.
     ls_tab-bank_field = 'Yükleme Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -413,7 +413,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 10.
     ls_tab-bank_field = 'Ödeme Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -424,7 +424,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 11.
     ls_tab-bank_field = 'İşlem Açıklama'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -446,7 +446,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 13.
     ls_tab-bank_field = 'İşlem Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -468,7 +468,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'KTS'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -479,7 +479,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'UTS'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -512,7 +512,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'Provizyon Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -523,7 +523,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'Kart No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -545,7 +545,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 22.
     ls_tab-bank_field = 'İşlem Saati'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -556,7 +556,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 23.
     ls_tab-bank_field = 'Bloke Hesap No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -578,7 +578,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 25.
     ls_tab-bank_field = 'STAN No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -589,7 +589,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'Referans No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -600,7 +600,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'Bloke Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -644,7 +644,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'Para Birimi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -655,7 +655,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 32.
     ls_tab-bank_field = 'UyeIndirimTutar'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -666,7 +666,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 33.
     ls_tab-bank_field = 'Taksitli İşlem Ücreti'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -677,7 +677,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 34.
     ls_tab-bank_field = 'İşlem Kodu Açıklaması'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -688,7 +688,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'Komisyon Tutarı(Döviz)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -699,7 +699,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 36.
     ls_tab-bank_field = 'Kur'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -710,7 +710,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'Puan (Döviz)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -721,7 +721,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'Taksitli İşlem Ücreti Toplamı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -732,7 +732,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'Tutar (Döviz)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -743,7 +743,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'Müşteri No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -754,7 +754,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 41.
     ls_tab-bank_field = 'Taksitli İşlem Ücreti Toplamı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -765,7 +765,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 42.
     ls_tab-bank_field = 'Üye Grup No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -776,7 +776,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 43.
     ls_tab-bank_field = 'Store No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -787,7 +787,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 44.
     ls_tab-bank_field = 'Sipariş No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -798,7 +798,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 45.
     ls_tab-bank_field = 'OTS'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -820,7 +820,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 47.
     ls_tab-bank_field = 'Kart Sahibi Adı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -831,7 +831,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 48.
     ls_tab-bank_field = 'Taksit Sırası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -842,7 +842,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 49.
     ls_tab-bank_field = 'Kampanyasız Komisyon'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -853,7 +853,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 50.
     ls_tab-bank_field = 'Kampanyasız Bloke Valör'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -864,7 +864,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 51.
     ls_tab-bank_field = 'Turkcell Sipariş No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -875,7 +875,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 52.
     ls_tab-bank_field = 'GSM No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -886,7 +886,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 53.
     ls_tab-bank_field = 'Bayii Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -897,7 +897,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 54.
     ls_tab-bank_field = 'Turkcell Fatura No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -919,7 +919,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 56.
     ls_tab-bank_field = 'Üst Bayi Üye No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -930,7 +930,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 57.
     ls_tab-bank_field = 'Banka Anahtarı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -941,7 +941,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 58.
     ls_tab-bank_field = 'Kart Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -963,7 +963,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 60.
     ls_tab-bank_field = 'Kart Markası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -996,7 +996,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'TKSTID'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1117,7 +1117,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 14.
     ls_tab-bank_field = 'TKSTADEDI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1128,7 +1128,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'TKSTSIRASI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1139,7 +1139,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'SUBE'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1150,7 +1150,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 17.
     ls_tab-bank_field = 'TIP'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1183,7 +1183,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'CIF_CUSTNO'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1194,7 +1194,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'PRVZTAR'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1205,7 +1205,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 22.
     ls_tab-bank_field = 'IADEUYEISY'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1238,7 +1238,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 25.
     ls_tab-bank_field = 'DETAY_TAKSIT_TOPLAM_TUTAR_CCY'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1249,7 +1249,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'DETAY_TAKSIT_TOPLAM_TUTAR_ORJ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1260,7 +1260,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'SANAL_POS_ID'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1271,7 +1271,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 28.
     ls_tab-bank_field = 'YENI_UYEISY'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1282,7 +1282,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'TABELA_UNVANI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1293,7 +1293,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 30.
     ls_tab-bank_field = 'ISLSAATI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = 'HH:MM:SS'.
     ls_tab-amount_format = ''.
@@ -1326,7 +1326,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'Gün Sonu Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1337,7 +1337,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 4.
     ls_tab-bank_field = 'Mono'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1447,7 +1447,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 14.
     ls_tab-bank_field = 'IslemTipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1469,7 +1469,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'İşlem Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1491,7 +1491,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 18.
     ls_tab-bank_field = 'İşlem Açıklaması'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1502,7 +1502,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'Provizyon No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1535,7 +1535,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 22.
     ls_tab-bank_field = 'Komisyon Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1557,7 +1557,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 24.
     ls_tab-bank_field = 'IKP'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1568,7 +1568,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 25.
     ls_tab-bank_field = 'BKP'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1579,7 +1579,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'BKB'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1590,7 +1590,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'IKB'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1623,7 +1623,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 30.
     ls_tab-bank_field = 'Bloke No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1656,7 +1656,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 33.
     ls_tab-bank_field = 'Para Birimi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1678,7 +1678,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'Hesap Hareket Aciklama'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1689,7 +1689,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 36.
     ls_tab-bank_field = 'İşlem Adet'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1700,7 +1700,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'Transfer Fiş No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1711,7 +1711,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'Kart Tipi1'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1722,7 +1722,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'Kart Owner'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1733,7 +1733,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'Brand Owner'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1744,7 +1744,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 41.
     ls_tab-bank_field = 'İşlem Açıklaması1'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1755,7 +1755,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 42.
     ls_tab-bank_field = 'Şube Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1766,7 +1766,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 43.
     ls_tab-bank_field = 'Kur Bilgisi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1777,7 +1777,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 44.
     ls_tab-bank_field = 'İşlem Kayıt Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1788,7 +1788,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 45.
     ls_tab-bank_field = 'İşlem Kayıt Saati'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1799,7 +1799,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 46.
     ls_tab-bank_field = 'İşlem No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1810,7 +1810,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 47.
     ls_tab-bank_field = 'Sipariş No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1821,7 +1821,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 1.
     ls_tab-bank_field = 'Gerçekleşen İşlemler'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1832,7 +1832,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 2.
     ls_tab-bank_field = 'Banka Vergi Sicil No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1843,7 +1843,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'Banka Vergi Dairesi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1876,7 +1876,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 6.
     ls_tab-bank_field = 'Ticari Unvan'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1898,7 +1898,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 8.
     ls_tab-bank_field = 'Bölüm Numarası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1909,7 +1909,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 9.
     ls_tab-bank_field = 'Bölüm Adı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1931,7 +1931,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 11.
     ls_tab-bank_field = 'VKN/TCKN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -1997,7 +1997,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 17.
     ls_tab-bank_field = 'Taksit Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2008,7 +2008,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 18.
     ls_tab-bank_field = 'Taksit Sayısı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2019,7 +2019,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'Taksit No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2030,7 +2030,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'Taksit Tutarı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2041,7 +2041,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'Gün Sonu Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2074,7 +2074,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 24.
     ls_tab-bank_field = 'POS İşlem No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2107,7 +2107,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'İşyeri Ücreti Pşn/Tkst(Oran)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2129,7 +2129,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'İşyeri Ücreti Pşn/Tkst(Maximum'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2151,7 +2151,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'İşyeri Puan Katkı Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2173,7 +2173,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 33.
     ls_tab-bank_field = 'Üye İşyeri Ücreti Taksit (Oran'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2195,7 +2195,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'Merkez Puan Katkı Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2217,7 +2217,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'Merkez Ücreti Taksit (Oran)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2228,7 +2228,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'Merkez Ücreti Taksit (Tutar)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2239,7 +2239,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'Merkez Ücreti Pşn/Tkst(Maximum'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2250,7 +2250,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'Merkez Ücreti Pşn/Tkst(Maximum'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2261,7 +2261,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 41.
     ls_tab-bank_field = 'Para Birimi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2283,7 +2283,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 43.
     ls_tab-bank_field = 'Üye İşyeri Bilgisi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2294,7 +2294,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 44.
     ls_tab-bank_field = 'Recurring ID'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2305,7 +2305,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 45.
     ls_tab-bank_field = 'Recurring Sıra No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2316,7 +2316,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 46.
     ls_tab-bank_field = 'RRN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2327,7 +2327,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 47.
     ls_tab-bank_field = 'Batch No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2360,7 +2360,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 2.
     ls_tab-bank_field = 'TİCARİ UNVAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2371,7 +2371,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'VERGİ NO'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2503,7 +2503,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'ONLINE_FLAG'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2514,7 +2514,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'SERVIS_KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2525,7 +2525,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 17.
     ls_tab-bank_field = 'ISLEM_TİPİ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2558,7 +2558,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'KOMİSYON_ORANI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2580,7 +2580,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 22.
     ls_tab-bank_field = 'HİZMET_KOM ORAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2602,7 +2602,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 24.
     ls_tab-bank_field = 'IKP ORAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2635,7 +2635,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'DOVİZ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2646,7 +2646,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 28.
     ls_tab-bank_field = 'SİPARİŞ NUMARASI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2657,7 +2657,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'Bloke Süresi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2668,7 +2668,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 30.
     ls_tab-bank_field = 'Bloke Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2679,7 +2679,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'Bloke Hesap No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2690,7 +2690,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 32.
     ls_tab-bank_field = 'Taksitli Bloke Hesap No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2712,7 +2712,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 34.
     ls_tab-bank_field = 'ŞUBE KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2723,7 +2723,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'ŞUBE ADI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2734,7 +2734,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 36.
     ls_tab-bank_field = 'İŞLEM AÇIKLAMA'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2756,7 +2756,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'BLOKE NO'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2767,7 +2767,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'BANKA KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2778,7 +2778,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'İŞLEM KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2789,7 +2789,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 41.
     ls_tab-bank_field = 'İŞLEM TÜRÜ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2811,7 +2811,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 2.
     ls_tab-bank_field = 'SUBE'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2954,7 +2954,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'FIRMA'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2976,7 +2976,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 17.
     ls_tab-bank_field = 'ISYERISOSYALKATKI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2987,7 +2987,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 18.
     ls_tab-bank_field = 'PROGRAMUCRETI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -2998,7 +2998,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'ANAMRKSOSYALKATKI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3009,7 +3009,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'ANAMRKPRGRAMUCRET'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3020,7 +3020,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'SERVİS ÜCRET TİPİ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3086,7 +3086,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'SİPARİŞ NUMARASI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3097,7 +3097,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 1.
     ls_tab-bank_field = 'Zincir No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3141,7 +3141,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 5.
     ls_tab-bank_field = 'İşlenme Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3174,7 +3174,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 8.
     ls_tab-bank_field = 'İşlem No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3196,7 +3196,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 10.
     ls_tab-bank_field = 'İşlem Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3207,7 +3207,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 11.
     ls_tab-bank_field = 'Taksit Sıra'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3284,7 +3284,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 18.
     ls_tab-bank_field = 'Para Cinsi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3295,7 +3295,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'Taksit Sayısı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3306,7 +3306,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'Servis Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3317,7 +3317,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'Komisyon Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3328,7 +3328,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 22.
     ls_tab-bank_field = 'Bloke Suresi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3339,7 +3339,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 23.
     ls_tab-bank_field = 'Bloke Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3350,7 +3350,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 24.
     ls_tab-bank_field = 'UTS'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3361,7 +3361,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 25.
     ls_tab-bank_field = 'Islem Saati'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3372,7 +3372,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'Bayi Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3394,7 +3394,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 28.
     ls_tab-bank_field = 'Orijinal Islem Tutari'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3405,7 +3405,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'Orijinal Komisyon'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3416,7 +3416,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 30.
     ls_tab-bank_field = 'Orijinal Net Tutar'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3427,7 +3427,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'Çapraz Kur Bilgisi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3449,7 +3449,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 33.
     ls_tab-bank_field = 'UyeRefNo'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3460,7 +3460,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 34.
     ls_tab-bank_field = 'TransactionId'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3471,7 +3471,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'AboneNo'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3482,7 +3482,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 36.
     ls_tab-bank_field = 'Ana İşyeri No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3493,7 +3493,7 @@
     ls_tab-bank_no = 8.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'Kur Bilgisi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3570,7 +3570,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 6.
     ls_tab-bank_field = 'işlem Saati'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3592,7 +3592,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 8.
     ls_tab-bank_field = 'Provizyon/Onay Numarası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3603,7 +3603,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 9.
     ls_tab-bank_field = 'İşlem tipine tanımlı üye işyer'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3636,7 +3636,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 12.
     ls_tab-bank_field = 'Tanımlı hizmet komisyonu oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3669,7 +3669,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'Para Birimi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3680,7 +3680,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'İşlemin günsonu tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3713,7 +3713,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'Taksit Sıra No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3724,7 +3724,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'Taksit Sayısı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3757,7 +3757,7 @@
     ls_tab-bank_no = 9.
     ls_tab-bank_field_no = 23.
     ls_tab-bank_field = 'Sipariş Numarası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3768,7 +3768,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 1.
     ls_tab-bank_field = 'Gerçekleşen İşlemler'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3779,7 +3779,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 2.
     ls_tab-bank_field = 'Banka Vergi Sicil No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3790,7 +3790,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'Banka Vergi Dairesi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3823,7 +3823,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 6.
     ls_tab-bank_field = 'Ticari Unvan'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3845,7 +3845,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 8.
     ls_tab-bank_field = 'Bölüm Numarası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3856,7 +3856,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 9.
     ls_tab-bank_field = 'Bölüm Adı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3878,7 +3878,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 11.
     ls_tab-bank_field = 'VKN/TCKN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3944,7 +3944,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 17.
     ls_tab-bank_field = 'Taksit Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3955,7 +3955,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 18.
     ls_tab-bank_field = 'Taksit Sayısı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3966,7 +3966,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'Taksit No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -3977,7 +3977,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'Taksit Tutarı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4021,7 +4021,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 24.
     ls_tab-bank_field = 'POS İşlem No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4054,7 +4054,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'İşyeri Ücreti Pşn/Tkst(Oran)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4076,7 +4076,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'İşyeri Ücreti Pşn/Tkst(Maximum'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4098,7 +4098,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'İşyeri Puan Katkı Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4120,7 +4120,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 33.
     ls_tab-bank_field = 'Üye İşyeri Ücreti Taksit (Oran'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4142,7 +4142,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'Merkez Puan Katkı Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4164,7 +4164,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'Merkez Ücreti Taksit (Oran)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4175,7 +4175,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'Merkez Ücreti Taksit (Tutar)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4186,7 +4186,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'Merkez Ücreti Pşn/Tkst(Maximum'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4197,7 +4197,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'Merkez Ücreti Pşn/Tkst(Maximum'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4208,7 +4208,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 41.
     ls_tab-bank_field = 'Para Birimi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4230,7 +4230,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 43.
     ls_tab-bank_field = 'Üye İşyeri Bilgisi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4241,7 +4241,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 44.
     ls_tab-bank_field = 'Recurring ID'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4252,7 +4252,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 45.
     ls_tab-bank_field = 'Recurring Sıra No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4263,7 +4263,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 46.
     ls_tab-bank_field = 'RRN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4274,7 +4274,7 @@
     ls_tab-bank_no = 5.
     ls_tab-bank_field_no = 47.
     ls_tab-bank_field = 'Batch No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4307,7 +4307,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 2.
     ls_tab-bank_field = 'TİCARİ UNVAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4318,7 +4318,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'VERGİ NO'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4439,7 +4439,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 14.
     ls_tab-bank_field = 'ONLINE_FLAG'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4450,7 +4450,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'SERVIS_KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4461,7 +4461,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'ISLEM_TİPİ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4494,7 +4494,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'KOMİSYON_ORANI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4516,7 +4516,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'HİZMET_KOM ORAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4538,7 +4538,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 23.
     ls_tab-bank_field = 'IKP ORAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4571,7 +4571,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'DOVİZ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4582,7 +4582,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'SİPARİŞ NUMARASI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4593,7 +4593,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 28.
     ls_tab-bank_field = 'Bloke Süresi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4604,7 +4604,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'Bloke Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4615,7 +4615,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 30.
     ls_tab-bank_field = 'Bloke Hesap No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4626,7 +4626,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'Taksitli Bloke Hesap No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4648,7 +4648,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 33.
     ls_tab-bank_field = 'ŞUBE KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4659,7 +4659,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 34.
     ls_tab-bank_field = 'ŞUBE ADI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4670,7 +4670,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'İŞLEM AÇIKLAMA'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4692,7 +4692,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'BLOKE NO'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4703,7 +4703,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'BANKA KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4714,7 +4714,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'İŞLEM KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4725,7 +4725,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'İŞLEM TÜRÜ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4769,7 +4769,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 4.
     ls_tab-bank_field = 'Açıklama'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4780,7 +4780,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 5.
     ls_tab-bank_field = 'Komisyon Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4802,7 +4802,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 7.
     ls_tab-bank_field = 'Bloke Süresi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4813,7 +4813,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 8.
     ls_tab-bank_field = 'Bloke Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4824,7 +4824,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 9.
     ls_tab-bank_field = 'Yükleme Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4835,7 +4835,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 10.
     ls_tab-bank_field = 'Ödeme Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4846,7 +4846,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 11.
     ls_tab-bank_field = 'İşlem Açıklama'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4868,7 +4868,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 13.
     ls_tab-bank_field = 'İşlem Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4890,7 +4890,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'KTS'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4901,7 +4901,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'UTS'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4934,7 +4934,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'Provizyon Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4945,7 +4945,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'Kart No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4967,7 +4967,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 22.
     ls_tab-bank_field = 'İşlem Saati'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -4978,7 +4978,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 23.
     ls_tab-bank_field = 'Bloke Hesap No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5000,7 +5000,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 25.
     ls_tab-bank_field = 'STAN No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5011,7 +5011,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'Referans No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5022,7 +5022,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'Bloke Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5066,7 +5066,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'Para Birimi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5077,7 +5077,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 32.
     ls_tab-bank_field = 'UyeIndirimTutar'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5088,7 +5088,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 33.
     ls_tab-bank_field = 'Taksitli İşlem Ücreti'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5099,7 +5099,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 34.
     ls_tab-bank_field = 'İşlem Kodu Açıklaması'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5110,7 +5110,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'Komisyon Tutarı(Döviz)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5121,7 +5121,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 36.
     ls_tab-bank_field = 'Kur'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5132,7 +5132,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'Puan (Döviz)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5143,7 +5143,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'Taksitli İşlem Ücreti Toplamı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5154,7 +5154,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'Tutar (Döviz)'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5165,7 +5165,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'Müşteri No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5176,7 +5176,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 41.
     ls_tab-bank_field = 'Taksitli İşlem Ücreti Toplamı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5187,7 +5187,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 42.
     ls_tab-bank_field = 'Üye Grup No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5198,7 +5198,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 43.
     ls_tab-bank_field = 'Store No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5209,7 +5209,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 44.
     ls_tab-bank_field = 'Sipariş No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5220,7 +5220,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 45.
     ls_tab-bank_field = 'OTS'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5242,7 +5242,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 47.
     ls_tab-bank_field = 'Kart Sahibi Adı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5253,7 +5253,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 48.
     ls_tab-bank_field = 'Taksit Sırası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5264,7 +5264,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 49.
     ls_tab-bank_field = 'Kampanyasız Komisyon'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5275,7 +5275,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 50.
     ls_tab-bank_field = 'Kampanyasız Bloke Valör'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5286,7 +5286,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 51.
     ls_tab-bank_field = 'Turkcell Sipariş No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5297,7 +5297,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 52.
     ls_tab-bank_field = 'GSM No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5308,7 +5308,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 53.
     ls_tab-bank_field = 'Bayii Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5319,7 +5319,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 54.
     ls_tab-bank_field = 'Turkcell Fatura No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5341,7 +5341,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 56.
     ls_tab-bank_field = 'Üst Bayi Üye No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5352,7 +5352,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 57.
     ls_tab-bank_field = 'Banka Anahtarı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5363,7 +5363,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 58.
     ls_tab-bank_field = 'Kart Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5385,7 +5385,7 @@
     ls_tab-bank_no = 2.
     ls_tab-bank_field_no = 60.
     ls_tab-bank_field = 'Kart Markası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5418,7 +5418,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'TKSTID'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5539,7 +5539,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 14.
     ls_tab-bank_field = 'TKSTADEDI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5550,7 +5550,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'TKSTSIRASI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5561,7 +5561,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'SUBE'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5572,7 +5572,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 17.
     ls_tab-bank_field = 'TIP'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5605,7 +5605,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'CIF_CUSTNO'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5616,7 +5616,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'PRVZTAR'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5627,7 +5627,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 22.
     ls_tab-bank_field = 'IADEUYEISY'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5660,7 +5660,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 25.
     ls_tab-bank_field = 'DETAY_TAKSIT_TOPLAM_TUTAR_CCY'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5671,7 +5671,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'DETAY_TAKSIT_TOPLAM_TUTAR_ORJ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5682,7 +5682,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'SANAL_POS_ID'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5693,7 +5693,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 28.
     ls_tab-bank_field = 'YENI_UYEISY'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5704,7 +5704,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'TABELA_UNVANI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5715,7 +5715,7 @@
     ls_tab-bank_no = 3.
     ls_tab-bank_field_no = 30.
     ls_tab-bank_field = 'ISLSAATI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = 'HH:MM:SS'.
     ls_tab-amount_format = ''.
@@ -5737,7 +5737,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 2.
     ls_tab-bank_field = 'Ticari Ünvan'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5748,7 +5748,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'Vergi No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5792,7 +5792,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 7.
     ls_tab-bank_field = 'MCC'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5891,7 +5891,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'Temassız Flag'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5902,7 +5902,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 17.
     ls_tab-bank_field = 'Offline Flag'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5913,7 +5913,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 18.
     ls_tab-bank_field = 'Servis Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5946,7 +5946,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'İşlem Adı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5957,7 +5957,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 22.
     ls_tab-bank_field = 'Provizyon Numarası'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -5979,7 +5979,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 24.
     ls_tab-bank_field = 'Komisyon Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6001,7 +6001,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'Marka Servis Komisyon Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6012,7 +6012,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'Marka Servis Komisyon Tutar'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6023,7 +6023,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 28.
     ls_tab-bank_field = 'IKP Oranı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6034,7 +6034,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'IKP Tutar'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6056,7 +6056,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'Para Birimi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6067,7 +6067,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 32.
     ls_tab-bank_field = 'Sipariş No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6089,7 +6089,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 34.
     ls_tab-bank_field = 'Bloke Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6122,7 +6122,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'Şube Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6133,7 +6133,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'Şube Adı'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6144,7 +6144,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'Günsonu Tarihi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6155,7 +6155,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'İşlem Kodu'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6166,7 +6166,7 @@
     ls_tab-bank_no = 4.
     ls_tab-bank_field_no = 41.
     ls_tab-bank_field = 'RRN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6188,7 +6188,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 2.
     ls_tab-bank_field = 'TİCARİ UNVAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6199,7 +6199,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 3.
     ls_tab-bank_field = 'VERGİ NO'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6320,7 +6320,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 14.
     ls_tab-bank_field = 'ONLINE_FLAG'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6331,7 +6331,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'SERVIS_KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6342,7 +6342,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 16.
     ls_tab-bank_field = 'ISLEM_TİPİ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6375,7 +6375,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'KOMİSYON_ORANI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6397,7 +6397,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'HİZMET_KOM ORAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6419,7 +6419,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 23.
     ls_tab-bank_field = 'IKP ORAN'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6452,7 +6452,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 26.
     ls_tab-bank_field = 'DOVİZ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6463,7 +6463,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'SİPARİŞ NUMARASI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6474,7 +6474,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 28.
     ls_tab-bank_field = 'Bloke Süresi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6485,7 +6485,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 29.
     ls_tab-bank_field = 'Bloke Tipi'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6496,7 +6496,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 30.
     ls_tab-bank_field = 'Bloke Hesap No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6507,7 +6507,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 31.
     ls_tab-bank_field = 'Taksitli Bloke Hesap No'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6529,7 +6529,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 33.
     ls_tab-bank_field = 'ŞUBE KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6540,7 +6540,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 34.
     ls_tab-bank_field = 'ŞUBE ADI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6551,7 +6551,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 35.
     ls_tab-bank_field = 'İŞLEM AÇIKLAMA'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6573,7 +6573,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 37.
     ls_tab-bank_field = 'BLOKE NO'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6584,7 +6584,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 38.
     ls_tab-bank_field = 'BANKA KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6595,7 +6595,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 39.
     ls_tab-bank_field = 'İŞLEM KODU'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6606,7 +6606,7 @@
     ls_tab-bank_no = 6.
     ls_tab-bank_field_no = 40.
     ls_tab-bank_field = 'İŞLEM TÜRÜ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6628,7 +6628,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 2.
     ls_tab-bank_field = 'SUBE'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6771,7 +6771,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 15.
     ls_tab-bank_field = 'FIRMA'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6793,7 +6793,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 17.
     ls_tab-bank_field = 'ISYERISOSYALKATKI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6804,7 +6804,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 18.
     ls_tab-bank_field = 'PROGRAMUCRETI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6815,7 +6815,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 19.
     ls_tab-bank_field = 'ANAMRKSOSYALKATKI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6826,7 +6826,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 20.
     ls_tab-bank_field = 'ANAMRKPRGRAMUCRET'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6837,7 +6837,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 21.
     ls_tab-bank_field = 'SERVİS ÜCRET TİPİ'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
@@ -6903,7 +6903,7 @@
     ls_tab-bank_no = 7.
     ls_tab-bank_field_no = 27.
     ls_tab-bank_field = 'SİPARİŞ NUMARASI'.
-    ls_tab-alv_field = 'nan'.
+    ls_tab-alv_field = ''.
     ls_tab-date_format = ''.
     ls_tab-time_format = ''.
     ls_tab-amount_format = ''.
