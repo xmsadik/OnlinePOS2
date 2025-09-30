@@ -5,6 +5,7 @@
 
     FIELD-SYMBOLS : <fs_messages> TYPE bapiret2.
 
+
     /ui2/cl_json=>deserialize( EXPORTING json = lv_request_body CHANGING data = ms_request ).
 
     READ TABLE ms_request-header INTO DATA(ls_header) INDEX 1.
