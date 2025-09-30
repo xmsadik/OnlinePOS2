@@ -19,6 +19,7 @@
       <fs_messages>-message_v1 = 'Valör Tarihi Değiştirildi.'.
     ELSE.
       APPEND INITIAL LINE TO ms_response-messages ASSIGNING <fs_messages>.
+      <fs_messages>-message    = 'Valör Tarihi Değiştirilemedi.'.
       <fs_messages>-message_v1 = 'Valör Tarihi Değiştirilemedi.'.
     ENDIF.
 
