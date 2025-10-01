@@ -11,7 +11,13 @@
     READ TABLE ms_request-header INTO DATA(ls_header) INDEX 1.
     CHECK ls_header IS NOT INITIAL.
 
-    UPDATE yop_t_posdetail SET value_date = @ls_header-valuedate WHERE uuid = @ls_header-uuid.
+    UPDATE yop_t_posdetail SET value_date = @ls_header-valuedate WHERE bukrs = @ls_header-bukrs AND  " Bukrs = @ls_header-bukrs .
+                                                                       bank_no = @ls_header-bankno AND
+                                                                       workplace_no = @ls_header-workplaceno AND
+                                                                       transaction_date = @ls_header-transactiondate AND
+                                                                       value_date = @ls_header-valuedate AND
+                                                                       process_type = @ls_header-processtype AND
+                                                                       waers = @ls_header-currencycode .
     IF sy-subrc EQ 0.
       COMMIT WORK.
       APPEND INITIAL LINE TO ms_response-messages ASSIGNING <fs_messages>.
