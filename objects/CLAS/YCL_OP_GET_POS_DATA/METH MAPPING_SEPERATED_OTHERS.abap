@@ -3,9 +3,9 @@
            lv_exit           TYPE string.
 
 
-    SELECT *
-      FROM i_costcentertexttp_2 WITH PRIVILEGED ACCESS
-      INTO TABLE @DATA(lt_costcenter).
+*    SELECT *              "Cdse eklendi
+*      FROM i_costcentertexttp_2 WITH PRIVILEGED ACCESS
+*      INTO TABLE @DATA(lt_costcenter).
 
       IF ms_bank_info-separator CS ','.
       data(lv_sep) = ','.
@@ -143,19 +143,19 @@
       <ls_posdata_detail>-create_user = sy-uname.
       <ls_posdata_detail>-waers = 'TRY'.
 
-      SELECT SINGLE fincs
-      FROM  yop_t_bankacc
-      WHERE workplace_no = @<ls_posdata_detail>-workplace_no
-            INTO @DATA(lv_fincs).
+*      SELECT SINGLE fincs "CDS e eklendi
+*      FROM  yop_t_bankacc
+*      WHERE workplace_no = @<ls_posdata_detail>-workplace_no
+*            INTO @DATA(lv_fincs).
 
 
-      IF lv_fincs IS NOT INITIAL.
-
-        READ TABLE lt_costcenter INTO DATA(ls_costcenter) WITH KEY CostCenter = lv_fincs.
-        IF sy-subrc EQ 0.
-          <ls_posdata_detail>-workplace_desc = ls_costcenter-CostCenterDescription..
-        ENDIF.
-      ENDIF.
+*      IF lv_fincs IS NOT INITIAL.
+*
+*        READ TABLE lt_costcenter INTO DATA(ls_costcenter) WITH KEY CostCenter = lv_fincs.
+*        IF sy-subrc EQ 0.
+*          <ls_posdata_detail>-workplace_desc = ls_costcenter-CostCenterDescription..
+*        ENDIF.
+*      ENDIF.
 
 
 

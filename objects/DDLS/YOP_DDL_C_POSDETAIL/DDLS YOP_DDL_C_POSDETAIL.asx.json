@@ -12,7 +12,7 @@
     "SOURCE":"@AccessControl.authorizationCheck: #NOT_REQUIRED\r\n@EndUserText.label: 'Online Pos Detay Verileri PV'\r\n@Metadata.ignorePropagatedAnnotations: true\r\n@Metadata.allowExtensions: true\r\ndefine root view entity YOP_DDL_C_POSDETAIL\r\n  provider contract transactional_query\r\n  as projection on YOP_DDL_I_POSDATA\r\n{\r\n  key Uuid,\r\n  key Bukrs,\r\n  key BankNo,\r\n  key BankName,\r\n  key WorkplaceNo,\r\n  key TerminalNo,\r\n  key TransactionDate,\r\n  key ValueDate,\r\n  key ProcessType,\r\n      CardNo,\r\n      CardType,\r\n      ProvisionAprCode,\r\n      InstallmentOrder,\r\n      InstallmentNumber,\r\n      @Semantics: { amount : {currencyCode: 'CurrencyCode'} }\r\n      GrossAmount,\r\n      @Semantics: { amount : {currencyCode: 'CurrencyCode'} }\r\n      InterruptAmount,\r\n      @Semantics: { amount : {currencyCode: 'CurrencyCode'} }\r\n      CommissionAmount,\r\n      @Semantics: { amount : {currencyCode: 'CurrencyCode'} }\r\n      NetAmount,\r\n      CurrencyCode,\r\n      FileName,\r\n      CreateDate,\r\n      CreateTime,\r\n      CreateUser,\r\n      AccBelnr,\r\n      AccCreateDate,\r\n      AccCreateTime,\r\n      AccCreateUser,\r\n      OrgRefDoc,\r\n      RevDoc,\r\n      gjahr,\r\n      /* Associations */\r\n      _BankInfo\r\n}\r\n/*+[internal] {\n\"BASEINFO\":\n{\n\"FROM\":\n[\n\"YOP_DDL_I_POSDATA\"\n],\n\"ASSOCIATED\":\n[\n\"YOP_DDL_I_BNKINF\"\n],\n\"BASE\":\n[\n\"YOP_DDL_I_POSDATA\"\n],\n\"ANNO_REF\":\n[],\n\"SCALAR_FUNCTION\":\n[],\n\"VERSION\":0,\n\"ANNOREF_EVALUATION_ERROR\":\"\"\n}\n}*/",
     "PARENTNAME":"",
     "ACTFLAG":"",
-    "CHGFLAG":"54D",
+    "CHGFLAG":"762D",
     "SOURCE_TYPE":"P",
     "SOURCE_ORIGIN":"0",
     "ABAP_LANGUAGE_VERSION":"5"
