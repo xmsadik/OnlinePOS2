@@ -1,6 +1,7 @@
   METHOD if_oo_adt_classrun~main.
 
-    DELETE FROM YOP_T_POSDETAIL WHERE bank_no = 7.
+    DELETE FROM yop_t_posdetail
+      WHERE value_date < '20251001'.
 
 
   ENDMETHOD.
