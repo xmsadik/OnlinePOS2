@@ -21,7 +21,7 @@
               reference2idbybusinesspartner TYPE xref2,
               reference3idbybusinesspartner TYPE xref3,
               costcenter                    TYPE kostl,
-              profit                        TYPE prctr,
+              ProfitCenter                  TYPE prctr,
               orderid                       TYPE aufnr,
               documentitemtext              TYPE sgtxt,
               specialglcode                 TYPE yeho_e_umskz,
@@ -50,7 +50,7 @@
             <fs_je>-%cid = to_upper( cl_uuid_factory=>create_system_uuid( )->create_uuid_x16( ) ).
             APPEND VALUE #( glaccountlineitem             = |001|
                             glaccount                     = ls_bankacc-bankhs
-                            profit                        = ls_bankacc-profit
+                            ProfitCenter                        = ls_bankacc-profit
                             documentitemtext              = | { <ls_header>-workplaceno } && Pos Tahsilatı|
                             _currencyamount = VALUE #( ( currencyrole = '00'
                                                          journalentryitemamount = ( <ls_header>-grossamount * -1 )
@@ -58,7 +58,7 @@
 
             APPEND VALUE #( glaccountlineitem             = |002|
                             glaccount                     = ls_bankacc-poshs
-                            profit                        = ls_bankacc-profit
+                            ProfitCenter                        = ls_bankacc-profit
                              documentitemtext             = | { <ls_header>-workplaceno } && Pos Tahsilatı|
                              _currencyamount = VALUE #( ( currencyrole = '00'
                                                           journalentryitemamount = <ls_header>-netamount
@@ -67,7 +67,7 @@
             APPEND VALUE #( glaccountlineitem             = |003|
                             glaccount                     = ls_bankacc-finhs
                             costcenter                    = ls_bankacc-fincs
-                            profit                        = ls_bankacc-profit
+                            ProfitCenter                        = ls_bankacc-profit
                             documentitemtext              = | { <ls_header>-workplaceno } && Pos Tahsilatı|
                             _currencyamount = VALUE #( ( currencyrole = '00'
                                                          journalentryitemamount = <ls_header>-commissionamount
