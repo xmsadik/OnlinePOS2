@@ -1051,7 +1051,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '622314'.
+    ls_tab-workplace_no = '000000000622314'.
     ls_tab-fincs        = '1010300001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1062,7 +1062,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634071'.
+    ls_tab-workplace_no = '000000000634071'.
     ls_tab-fincs        = '1011200001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1073,7 +1073,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634074'.
+    ls_tab-workplace_no = '000000000634074'.
     ls_tab-fincs        = '1011600001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1084,7 +1084,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634075'.
+    ls_tab-workplace_no = '000000000634075'.
     ls_tab-fincs        = '1011500001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1095,7 +1095,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634077'.
+    ls_tab-workplace_no = '000000000634077'.
     ls_tab-fincs        = '1011800001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1106,7 +1106,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634080'.
+    ls_tab-workplace_no = '000000000634080'.
     ls_tab-fincs        = '1012200001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1117,7 +1117,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634081'.
+    ls_tab-workplace_no = '000000000634081'.
     ls_tab-fincs        = '1011700001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1128,7 +1128,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634082'.
+    ls_tab-workplace_no = '000000000634082'.
     ls_tab-fincs        = '1011300001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1139,7 +1139,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634083'.
+    ls_tab-workplace_no = '000000000634083'.
     ls_tab-fincs        = '1011400001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1150,7 +1150,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634085'.
+    ls_tab-workplace_no = '000000000634085'.
     ls_tab-fincs        = '1011100001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1161,7 +1161,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634088'.
+    ls_tab-workplace_no = '000000000634088'.
     ls_tab-fincs        = '1011000001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1172,7 +1172,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '634089'.
+    ls_tab-workplace_no = '000000000634089'.
     ls_tab-fincs        = '1012300001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1183,7 +1183,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '1115943'.
+    ls_tab-workplace_no = '000000001115943'.
     ls_tab-fincs        = '1011900001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1194,7 +1194,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '2263606'.
+    ls_tab-workplace_no = '000000002263606'.
     ls_tab-fincs        = '1012000001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
@@ -1205,7 +1205,7 @@
 
     ls_tab-bukrs        = '1000'.
     ls_tab-bank_no      = 4.
-    ls_tab-workplace_no = '3479950'.
+    ls_tab-workplace_no = '000000003479950'.
     ls_tab-fincs        = '1010300001'.
     ls_tab-finhs        = '7801600000'.
     ls_tab-poshs        = '1082111601'.
