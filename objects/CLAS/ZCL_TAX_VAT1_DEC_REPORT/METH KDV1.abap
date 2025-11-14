@@ -1,7 +1,8 @@
   METHOD kdv1.
 
     DATA ls_bkpf  TYPE mty_bkpf.
-    DATA lt_bkpf  TYPE SORTED TABLE OF mty_bkpf WITH UNIQUE KEY bukrs belnr gjahr.
+*    DATA lt_bkpf  TYPE SORTED TABLE OF mty_bkpf WITH UNIQUE KEY bukrs belnr gjahr.
+    DATA lt_bkpf  TYPE TABLE OF mty_bkpf .
     DATA lt_bset  TYPE mtty_bset.
     DATA ls_bset  TYPE mty_bset.
     DATA lv_tabix TYPE sy-tabix.
@@ -77,7 +78,8 @@
     DATA lv_thlog_wrbtr TYPE ztax_t_thlog-wrbtr.
 
     DATA ls_read_tab TYPE mty_read_tab.
-    DATA lt_bseg TYPE SORTED TABLE OF mty_bseg WITH UNIQUE KEY bukrs belnr gjahr koart.
+*    DATA lt_bseg TYPE SORTED TABLE OF mty_bseg WITH UNIQUE KEY bukrs belnr gjahr koart. "YiğitcanÖzdemir
+    DATA lt_bseg TYPE  TABLE OF mty_bseg .
     DATA ls_bseg TYPE mty_bseg.
     DATA lr_saknr TYPE RANGE OF I_OperationalAcctgDocItem-OperationalGLAccount.
     FIELD-SYMBOLS <fs_range>   TYPE any.
